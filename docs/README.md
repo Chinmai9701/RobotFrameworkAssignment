@@ -91,6 +91,23 @@ Key dependencies from requirements.txt:
 - The project uses predefined dates of birth for form submission
 - Chrome and ChromeDriver versions should be compatible
 
+## References
+
+1. **Official Documentation**
+   - [Robot Framework Official Documentation](https://robotframework.org/)
+   - [Robot Framework CSV Library](https://rawgit.com/s4int/robotframework-CSVLibrary/master/doc/CSVLibrary.html#library-documentation-top)
+
+2. **Web Resources**
+   - [HoopsHype](https://hoopshype.com/salaries/players/) - Source for player salary data
+   - [Selenium Practice Site](https://selenium-practice.netlify.app/) - Form submission testing site
+
+3. **Development Tools & Support**
+   - [ChatGPT](https://chat.openai.com/) - AI assistance for code development
+   - [Google Search](https://www.google.com/) - General troubleshooting and research
+   - [Python Official Website](https://www.python.org/) - Python installation and documentation
+   - [ChromeDriver Downloads](https://chromedriver.chromium.org/downloads) - WebDriver for Chrome automation
+   - [YouTube](https://www.youtube.com/) - Tutorial videos and implementation examples
+
 
 
 
